@@ -1,0 +1,47 @@
+package damage
+import DamageDetection
+import DamageType
+
+init
+    addOnDamageFunc() ->
+        switch getDamageType()
+            case ATTACK
+                print(GetEventDamageSource().getName() + " attacked " + GetTriggerUnit().getName())
+            case SPELL
+                print(GetEventDamageSource().getName() + " used a spell on " + GetTriggerUnit().getName())
+            default
+
+init
+    // addOnDamageFunc() ->
+    //     let dsu = GetEventDamageSource()
+    //     let dtu = GetTriggerUnit()
+    //     var _damage = GetEventDamage()
+    //     let type_ = getDamageType()
+    //     print(type_ castTo int)
+    //     switch type_
+    //         case SPELL
+    //             _damage = -GetEventDamage()
+    //         case NULLED
+    //             _damage = 0
+    //         default
+    //             _damage = GetEventDamage()
+    //     var _handlerDamage = _damage
+    //     if _handlerDamage>0
+    //         switch type_
+    //             case ATTACK
+    //                 showDamageFont("攻击",_handlerDamage)
+    //                 // dsu.damageAttack(dtu, _handlerDamage - _damage)
+    //             case SPELL
+    //                 showDamageFont("法术",_handlerDamage)
+    //                 // dsu.damageSpell(dtu, _handlerDamage - _damage)
+    //             case CODE
+    //                 showDamageFont("code",_handlerDamage)
+    //                 // dsu.damageCodeNoSign(dtu, _handlerDamage - _damage)
+    //             default
+
+function showDamageFont(string s,real damage)
+    print(s+damage.toString())
+
+        
+
+    

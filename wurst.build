@@ -1,0 +1,9 @@
+---
+projectName: "MirTDTest"
+dependencies:
+- "https://github.com/wurstscript/wurstStdlib2"
+buildMapData:
+  name: "MirTD"
+  fileName: "MirTD"
+  author: "DefaultAuthor"
+  playerCount: 1
