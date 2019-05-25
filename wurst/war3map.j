@@ -1,4 +1,150 @@
 globals
+    // Generated
+rect gg_rct_area_flower_dream= null
+rect gg_rct_attack= null
+rect gg_rct_beast_god= null
+rect gg_rct_bottom_area_come= null
+rect gg_rct_choice_hero= null
+rect gg_rct_dungeon_1= null
+rect gg_rct_dungeon_1_boss1= null
+rect gg_rct_dungeon_1_boss2= null
+rect gg_rct_dungeon_1_boss3= null
+rect gg_rct_dungeon_1_boss4= null
+rect gg_rct_dungeon_1_come_1= null
+rect gg_rct_dungeon_1_come_2= null
+rect gg_rct_dungeon_1_come_3= null
+rect gg_rct_dungeon_1_come_4= null
+rect gg_rct_dungeon_1_unit1= null
+rect gg_rct_dungeon_1_unit2= null
+rect gg_rct_dungeon_1_unit3= null
+rect gg_rct_dungeon_1_unit4= null
+rect gg_rct_dungeon_2= null
+rect gg_rct_dungeon_2_boss1= null
+rect gg_rct_dungeon_2_boss2= null
+rect gg_rct_dungeon_2_boss3= null
+rect gg_rct_dungeon_2_boss4= null
+rect gg_rct_dungeon_2_come_1= null
+rect gg_rct_dungeon_2_come_2= null
+rect gg_rct_dungeon_2_come_3= null
+rect gg_rct_dungeon_2_come_4= null
+rect gg_rct_dungeon_2_unit1= null
+rect gg_rct_dungeon_2_unit2= null
+rect gg_rct_dungeon_2_unit3= null
+rect gg_rct_dungeon_2_unit4= null
+rect gg_rct_dungeon_3= null
+rect gg_rct_dungeon_3_boss1= null
+rect gg_rct_dungeon_3_boss2= null
+rect gg_rct_dungeon_3_boss3= null
+rect gg_rct_dungeon_3_boss4= null
+rect gg_rct_dungeon_3_come_1= null
+rect gg_rct_dungeon_3_come_2= null
+rect gg_rct_dungeon_3_come_3= null
+rect gg_rct_dungeon_3_come_4= null
+rect gg_rct_dungeon_3_unit1= null
+rect gg_rct_dungeon_3_unit2= null
+rect gg_rct_dungeon_3_unit3= null
+rect gg_rct_dungeon_3_unit4= null
+rect gg_rct_dungeon_4= null
+rect gg_rct_dungeon_4_boss1= null
+rect gg_rct_dungeon_4_boss2= null
+rect gg_rct_dungeon_4_boss3= null
+rect gg_rct_dungeon_4_boss4= null
+rect gg_rct_dungeon_4_come_1= null
+rect gg_rct_dungeon_4_come_2= null
+rect gg_rct_dungeon_4_come_3= null
+rect gg_rct_dungeon_4_come_4= null
+rect gg_rct_dungeon_4_unit1= null
+rect gg_rct_dungeon_4_unit2= null
+rect gg_rct_dungeon_4_unit3= null
+rect gg_rct_dungeon_4_unit4= null
+rect gg_rct_dungeon_5= null
+rect gg_rct_dungeon_5_boss1= null
+rect gg_rct_dungeon_5_boss2= null
+rect gg_rct_dungeon_5_boss3= null
+rect gg_rct_dungeon_5_boss4= null
+rect gg_rct_dungeon_5_come_1= null
+rect gg_rct_dungeon_5_come_2= null
+rect gg_rct_dungeon_5_come_3= null
+rect gg_rct_dungeon_5_come_4= null
+rect gg_rct_dungeon_5_unit1= null
+rect gg_rct_dungeon_5_unit2= null
+rect gg_rct_dungeon_5_unit3= null
+rect gg_rct_dungeon_5_unit4= null
+rect gg_rct_dungeon_all= null
+rect gg_rct_final= null
+rect gg_rct_final_come= null
+rect gg_rct_gem_1= null
+rect gg_rct_gem_1b= null
+rect gg_rct_gem_1c= null
+rect gg_rct_gem_2= null
+rect gg_rct_gem_2b= null
+rect gg_rct_gem_2c= null
+rect gg_rct_gem_3= null
+rect gg_rct_gem_3b= null
+rect gg_rct_gem_3c= null
+rect gg_rct_gem_4= null
+rect gg_rct_gem_4b= null
+rect gg_rct_gem_4c= null
+rect gg_rct_home= null
+rect gg_rct_home_return= null
+rect gg_rct_main= null
+rect gg_rct_path_center_1= null
+rect gg_rct_path_center_2= null
+rect gg_rct_path_center_3= null
+rect gg_rct_persion_1= null
+rect gg_rct_persion_2= null
+rect gg_rct_persion_3= null
+rect gg_rct_persion_4= null
+rect gg_rct_persion_5= null
+rect gg_rct_persion_all= null
+rect gg_rct_persion_chall_1= null
+rect gg_rct_persion_chall_2= null
+rect gg_rct_persion_chall_3= null
+rect gg_rct_persion_chall_4= null
+rect gg_rct_persion_chall_5= null
+rect gg_rct_persion_return_1= null
+rect gg_rct_persion_return_2= null
+rect gg_rct_persion_return_3= null
+rect gg_rct_persion_return_4= null
+rect gg_rct_persion_return_5= null
+rect gg_rct_right_area_come= null
+rect gg_rct_soul_all_1= null
+rect gg_rct_soul_all_2= null
+rect gg_rct_soul_all_3= null
+rect gg_rct_soul_all_4= null
+rect gg_rct_soul_all_5= null
+rect gg_rct_soul_chall_1= null
+rect gg_rct_soul_chall_2= null
+rect gg_rct_soul_chall_3= null
+rect gg_rct_soul_chall_4= null
+rect gg_rct_soul_chall_5= null
+rect gg_rct_soul_come_1= null
+rect gg_rct_soul_come_2= null
+rect gg_rct_soul_come_3= null
+rect gg_rct_soul_come_4= null
+rect gg_rct_soul_come_5= null
+rect gg_rct_spring_return= null
+rect gg_rct_snow_mountain_u1= null
+rect gg_rct_snow_mountain_u2= null
+rect gg_rct_snow_mountain_u3= null
+rect gg_rct_hide_way_1= null
+rect gg_rct_hide_way_2= null
+rect gg_rct_hide_way_3= null
+rect gg_rct_hide_way_4= null
+rect gg_rct_senior_dungeon_1= null
+rect gg_rct_senior_dungeon_2= null
+rect gg_rct_choice_hero_center= null
+rect gg_rct_choice_hero_come= null
+rect gg_rct_flower_u1= null
+rect gg_rct_old_god_1= null
+rect gg_rct_old_god_2= null
+rect gg_rct_old_god_3= null
+rect gg_rct_old_god_4= null
+rect gg_rct_old_god_5= null
+camerasetup gg_cam_chioceHero= null
+trigger gg_trg_______u= null
+unit gg_unit_NP0A_0027= null
+unit gg_unit_n005_0005= null
 
 
 //JASSHelper struct globals:
@@ -8,12 +154,12 @@ endglobals
 
 //===========================================================================
 // 
-// Wurst Example Map
+// 轮回Nirvana
 // 
 //   Warcraft III map script
 //   Generated by the Warcraft III World Editor
-//   Date: Fri Nov 09 05:07:17 2018
-//   Map Author: Wurst Team
+//   Date: Sun May 26 07:16:20 2019
+//   Map Author: 火凌之凤
 // 
 //===========================================================================
 //***************************************************************************
@@ -29,84 +175,267 @@ endfunction
 //*
 //***************************************************************************
 //===========================================================================
-function CreateUnitsForPlayer0 takes nothing returns nothing
-    local player p= Player(0)
+function CreateBuildingsForPlayer9 takes nothing returns nothing
+    local player p= Player(9)
     local unit u
     local integer unitID
     local trigger t
     local real life
-    set u=CreateUnit(p, 'Hamg', - 747.3, 218.5, 264.757)
-    call SetHeroLevel(u, 10, false)
-    call SetUnitState(u, UNIT_STATE_MANA, 0)
-    set u=CreateUnit(p, 'Hblm', - 854.6, 47.3, 225.798)
-    call SetHeroLevel(u, 10, false)
-    call SetUnitState(u, UNIT_STATE_MANA, 0)
-    set u=CreateUnit(p, 'Otch', - 877.7, - 147.0, 47.155)
-    call SetHeroLevel(u, 10, false)
-    call SetUnitState(u, UNIT_STATE_MANA, 0)
-    set u=CreateUnit(p, 'Obla', - 839.6, - 385.4, 280.819)
-    call SetHeroLevel(u, 10, false)
-    call SetUnitState(u, UNIT_STATE_MANA, 0)
-    set u=CreateUnit(p, 'Ulic', - 905.7, 274.3, 332.731)
-    call SetHeroLevel(u, 10, false)
-    call SetUnitState(u, UNIT_STATE_MANA, 0)
-    set u=CreateUnit(p, 'Udre', - 1008.4, 186.6, 20.182)
-    call SetHeroLevel(u, 10, false)
-    call SetUnitState(u, UNIT_STATE_MANA, 0)
-    set u=CreateUnit(p, 'Udea', - 1018.3, 86.9, 254.319)
-    call SetHeroLevel(u, 10, false)
-    call SetUnitState(u, UNIT_STATE_MANA, 0)
-    set u=CreateUnit(p, 'Ucrl', - 823.7, 491.1, 25.335)
-    call SetHeroLevel(u, 10, false)
-    call SetUnitState(u, UNIT_STATE_MANA, 0)
-    set u=CreateUnit(p, 'Emoo', - 1064.2, - 79.8, 186.169)
-    call SetHeroLevel(u, 10, false)
-    call SetUnitState(u, UNIT_STATE_MANA, 0)
-    set u=CreateUnit(p, 'Emoo', - 1082.9, - 216.4, 218.107)
-    call SetHeroLevel(u, 10, false)
-    call SetUnitState(u, UNIT_STATE_MANA, 0)
-    set u=CreateUnit(p, 'Edem', - 1047.3, - 385.6, 303.715)
-    call SetHeroLevel(u, 10, false)
-    call SetUnitState(u, UNIT_STATE_MANA, 0)
-    set u=CreateUnit(p, 'Ewar', - 1057.6, - 529.1, 205.626)
-    call SetHeroLevel(u, 10, false)
-    call SetUnitState(u, UNIT_STATE_MANA, 0)
+    set u=CreateUnit(p, 'n002', 128.0, - 7424.0, 270.000)
 endfunction
 //===========================================================================
-function CreateUnitsForPlayer1 takes nothing returns nothing
-    local player p= Player(1)
+function CreateNeutralPassiveBuildings takes nothing returns nothing
+    local player p= Player(PLAYER_NEUTRAL_PASSIVE)
     local unit u
     local integer unitID
     local trigger t
     local real life
-    set u=CreateUnit(p, 'hpea', - 29.7, 30.1, 223.040)
-    set u=CreateUnit(p, 'hpea', - 30.9, - 65.8, 193.266)
-    set u=CreateUnit(p, 'hpea', - 49.6, - 143.6, 194.936)
-    set u=CreateUnit(p, 'hpea', - 43.5, - 235.0, 9.888)
-    set u=CreateUnit(p, 'hpea', 57.1, - 248.1, 205.824)
-    set u=CreateUnit(p, 'hpea', 133.5, - 193.2, 107.263)
-    set u=CreateUnit(p, 'hpea', 174.3, - 117.4, 356.583)
-    set u=CreateUnit(p, 'hpea', 173.0, - 36.8, 34.564)
-    set u=CreateUnit(p, 'hpea', 160.3, 9.4, 304.342)
-    set u=CreateUnit(p, 'hpea', 155.2, 47.2, 232.093)
-    set u=CreateUnit(p, 'hpea', 139.1, 97.3, 12.942)
-    set u=CreateUnit(p, 'hpea', 87.4, 76.0, 195.156)
-    set u=CreateUnit(p, 'hpea', 65.6, 49.1, 118.469)
-    set u=CreateUnit(p, 'hpea', 58.0, - 45.9, 86.421)
-    set u=CreateUnit(p, 'hpea', 52.4, - 115.7, 291.366)
+    set u=CreateUnit(p, 'n005', 16576.0, 14272.0, 270.000)
+endfunction
+//===========================================================================
+function CreateNeutralPassive takes nothing returns nothing
+    local player p= Player(PLAYER_NEUTRAL_PASSIVE)
+    local unit u
+    local integer unitID
+    local trigger t
+    local real life
+    set u=CreateUnit(p, 'NP0N', - 66.5, - 7848.9, 55.539)
+    set u=CreateUnit(p, 'NP0G', 418.8, 4626.7, 269.917)
+    set u=CreateUnit(p, 'NP10', - 406.4, - 7412.4, 358.606)
+    set u=CreateUnit(p, 'NP06', 300.0, - 7824.9, 92.204)
+    set u=CreateUnit(p, 'NP0M', - 303.5, - 7663.9, 28.023)
+    set u=CreateUnit(p, 'NP07', 3702.8, - 14400.3, 180.230)
+    set u=CreateUnit(p, 'NP0G', - 1369.8, 4609.4, 269.917)
+    set u=CreateUnit(p, 'NP02', - 219.9, 4661.5, 282.680)
+    set u=CreateUnit(p, 'NP0G', 2239.8, 4592.7, 269.917)
+    set u=CreateUnit(p, 'NP0G', 3917.9, 4649.3, 269.917)
+    set u=CreateUnit(p, 'NP0G', 5707.2, 4623.7, 269.917)
+    set u=CreateUnit(p, 'NP00', 621.6, - 7456.9, 176.410)
+    set u=CreateUnit(p, 'NP05', - 307.4, - 7043.7, 317.806)
+    set u=CreateUnit(p, 'NP08', - 1948.1, - 14365.8, 305.160)
+    set u=CreateUnit(p, 'NP04', 544.7, - 7687.8, 135.409)
+    set u=CreateUnit(p, 'NP0A', 3293.8, - 11327.5, 274.003)
+    set u=CreateUnit(p, 'NP03', 78.1, 4643.3, 272.102)
+    set u=CreateUnit(p, 'NP0O', 546.9, - 7102.3, 218.205)
+    set u=CreateUnit(p, 'NP0B', 6822.8, - 6272.1, 165.990)
+    set u=CreateUnit(p, 'NP03', - 1710.5, 4626.1, 272.102)
+    set u=CreateUnit(p, 'NP0C', - 13713.9, - 722.9, 278.010)
+    set u=CreateUnit(p, 'NP0I', - 252.2, 4286.3, 262.617)
+    set u=CreateUnit(p, 'NP0J', - 258.0, 3934.9, 272.853)
+    set u=CreateUnit(p, 'NP02', 1601.0, 4627.5, 282.680)
+    set u=CreateUnit(p, 'NP03', 1899.1, 4609.4, 272.102)
+    set u=CreateUnit(p, 'NP0I', 1568.8, 4252.4, 262.617)
+    set u=CreateUnit(p, 'NP0J', 1562.9, 3900.9, 272.853)
+    set u=CreateUnit(p, 'NP02', 3279.2, 4684.2, 282.680)
+    set u=CreateUnit(p, 'NP0I', - 2040.8, 4269.1, 262.617)
+    set u=CreateUnit(p, 'NP03', 3577.2, 4666.0, 272.102)
+    set u=CreateUnit(p, 'NP0I', 3246.9, 4309.0, 262.617)
+    set u=CreateUnit(p, 'NP0J', 3241.1, 3957.5, 272.853)
+    set u=CreateUnit(p, 'NP02', 5068.5, 4658.6, 282.680)
+    set u=CreateUnit(p, 'NP03', 5366.5, 4640.4, 272.102)
+    set u=CreateUnit(p, 'NP0I', 5036.3, 4283.4, 262.617)
+    set u=CreateUnit(p, 'NP0J', 5030.4, 3932.0, 272.853)
+    set u=CreateUnit(p, 'NP09', 8313.5, - 2657.7, 285.340)
+    set u=CreateUnit(p, 'NP01', - 543.1, - 6641.5, 311.490)
+    set u=CreateUnit(p, 'NP0D', 786.6, - 6743.3, 225.456)
+    set u=CreateUnit(p, 'NP02', - 2008.6, 4644.3, 282.680)
+    set u=CreateUnit(p, 'NP0H', 113.1, - 6960.7, 272.788)
+    set u=CreateUnit(p, 'NP0J', - 2046.7, 3917.7, 272.853)
 endfunction
 //===========================================================================
 function CreatePlayerBuildings takes nothing returns nothing
+    call CreateBuildingsForPlayer9()
 endfunction
 //===========================================================================
 function CreatePlayerUnits takes nothing returns nothing
-    call CreateUnitsForPlayer0()
-    call CreateUnitsForPlayer1()
 endfunction
 //===========================================================================
 function CreateAllUnits takes nothing returns nothing
-    call CreatePlayerBuildings()
+    call CreateNeutralPassiveBuildings()
+    call CreateBuildingsForPlayer9() // INLINED!!
+    call CreateNeutralPassive()
     call CreatePlayerUnits()
+endfunction
+//***************************************************************************
+//*
+//*  Regions
+//*
+//***************************************************************************
+function CreateRegions takes nothing returns nothing
+    local weathereffect we
+    set gg_rct_area_flower_dream=Rect(- 6944.0, - 15552.0, - 3264.0, - 14624.0)
+    set gg_rct_attack=Rect(- 3200.0, - 12992.0, 2144.0, 1472.0)
+    set gg_rct_beast_god=Rect(704.0, 14080.0, 1312.0, 14528.0)
+    set gg_rct_bottom_area_come=Rect(64.0, - 14080.0, 480.0, - 13728.0)
+    set gg_rct_choice_hero=Rect(14496.0, 12256.0, 18912.0, 16000.0)
+    set gg_rct_dungeon_1=Rect(- 11104.0, 5888.0, - 2848.0, 15648.0)
+    set we=AddWeatherEffect(gg_rct_dungeon_1, 'FDbl')
+    call EnableWeatherEffect(we, true)
+    set gg_rct_dungeon_1_boss1=Rect(- 8544.0, 13824.0, - 7968.0, 14272.0)
+    set gg_rct_dungeon_1_boss2=Rect(- 4608.0, 13472.0, - 4000.0, 14080.0)
+    set gg_rct_dungeon_1_boss3=Rect(- 9984.0, 6464.0, - 9536.0, 6848.0)
+    set gg_rct_dungeon_1_boss4=Rect(- 4288.0, 7840.0, - 3840.0, 8224.0)
+    set gg_rct_dungeon_1_come_1=Rect(- 9344.0, 11424.0, - 8768.0, 11904.0)
+    set gg_rct_dungeon_1_come_2=Rect(- 4928.0, 10688.0, - 4352.0, 11168.0)
+    set gg_rct_dungeon_1_come_3=Rect(- 9824.0, 9248.0, - 9248.0, 9728.0)
+    set gg_rct_dungeon_1_come_4=Rect(- 6976.0, 7616.0, - 6400.0, 8096.0)
+    set gg_rct_dungeon_1_unit1=Rect(- 9568.0, 12032.0, - 7200.0, 13568.0)
+    set gg_rct_dungeon_1_unit2=Rect(- 6048.0, 11168.0, - 4288.0, 13440.0)
+    set gg_rct_dungeon_1_unit3=Rect(- 10176.0, 6912.0, - 8032.0, 9152.0)
+    set gg_rct_dungeon_1_unit4=Rect(- 6720.0, 6208.0, - 3808.0, 7936.0)
+    set gg_rct_dungeon_2=Rect(9888.0, - 4000.0, 18816.0, 5824.0)
+    set gg_rct_dungeon_2_boss1=Rect(17152.0, - 3264.0, 17824.0, - 2816.0)
+    set gg_rct_dungeon_2_boss2=Rect(15616.0, 2080.0, 15968.0, 2592.0)
+    set gg_rct_dungeon_2_boss3=Rect(10496.0, 4416.0, 11328.0, 5088.0)
+    set gg_rct_dungeon_2_boss4=Rect(17184.0, 3808.0, 18016.0, 4480.0)
+    set gg_rct_dungeon_2_come_1=Rect(10592.0, - 3264.0, 11104.0, - 2528.0)
+    set gg_rct_dungeon_2_come_2=Rect(17632.0, - 832.0, 18144.0, - 96.0)
+    set gg_rct_dungeon_2_come_3=Rect(11264.0, 512.0, 11744.0, 992.0)
+    set gg_rct_dungeon_2_come_4=Rect(13152.0, 4384.0, 13664.0, 5120.0)
+    set gg_rct_dungeon_2_unit1=Rect(12032.0, - 3424.0, 16864.0, - 1696.0)
+    set gg_rct_dungeon_2_unit2=Rect(15648.0, - 64.0, 17856.0, 2048.0)
+    set gg_rct_dungeon_2_unit3=Rect(10208.0, 992.0, 12192.0, 4032.0)
+    set gg_rct_dungeon_2_unit4=Rect(13824.0, 3680.0, 17088.0, 5024.0)
+    set gg_rct_dungeon_3=Rect(- 11360.0, - 4160.0, - 3616.0, 5216.0)
+    set gg_rct_dungeon_3_boss1=Rect(- 8896.0, 3872.0, - 8384.0, 4352.0)
+    set gg_rct_dungeon_3_boss2=Rect(- 4960.0, 4000.0, - 4416.0, 4416.0)
+    set gg_rct_dungeon_3_boss3=Rect(- 10176.0, - 2464.0, - 9728.0, - 2048.0)
+    set gg_rct_dungeon_3_boss4=Rect(- 4992.0, - 3008.0, - 4544.0, - 2592.0)
+    set gg_rct_dungeon_3_come_1=Rect(- 10528.0, 1952.0, - 10208.0, 2304.0)
+    set gg_rct_dungeon_3_come_2=Rect(- 6592.0, 3936.0, - 6272.0, 4288.0)
+    set gg_rct_dungeon_3_come_3=Rect(- 8352.0, - 3168.0, - 8032.0, - 2816.0)
+    set gg_rct_dungeon_3_come_4=Rect(- 6400.0, - 3104.0, - 6080.0, - 2752.0)
+    set gg_rct_dungeon_3_unit1=Rect(- 10208.0, 2336.0, - 7776.0, 3872.0)
+    set gg_rct_dungeon_3_unit2=Rect(- 6560.0, 2496.0, - 4896.0, 3808.0)
+    set gg_rct_dungeon_3_unit3=Rect(- 9440.0, - 2400.0, - 7520.0, - 640.0)
+    set gg_rct_dungeon_3_unit4=Rect(- 6560.0, - 2624.0, - 4832.0, - 1152.0)
+    set gg_rct_dungeon_4=Rect(10016.0, - 16032.0, 18944.0, - 6752.0)
+    set gg_rct_dungeon_4_boss1=Rect(10816.0, - 8352.0, 11296.0, - 7904.0)
+    set gg_rct_dungeon_4_boss2=Rect(17088.0, - 8448.0, 17472.0, - 7936.0)
+    set gg_rct_dungeon_4_boss3=Rect(11648.0, - 13344.0, 12320.0, - 12736.0)
+    set gg_rct_dungeon_4_boss4=Rect(14880.0, - 13152.0, 15552.0, - 12544.0)
+    set gg_rct_dungeon_4_come_1=Rect(10304.0, - 10752.0, 10688.0, - 10400.0)
+    set gg_rct_dungeon_4_come_2=Rect(18240.0, - 10016.0, 18624.0, - 9664.0)
+    set gg_rct_dungeon_4_come_3=Rect(10336.0, - 12640.0, 10720.0, - 12288.0)
+    set gg_rct_dungeon_4_come_4=Rect(17920.0, - 15328.0, 18304.0, - 14976.0)
+    set gg_rct_dungeon_4_unit1=Rect(11488.0, - 10048.0, 13632.0, - 7904.0)
+    set gg_rct_dungeon_4_unit2=Rect(15104.0, - 10272.0, 17248.0, - 8320.0)
+    set gg_rct_dungeon_4_unit3=Rect(11648.0, - 15392.0, 13984.0, - 13504.0)
+    set gg_rct_dungeon_4_unit4=Rect(15104.0, - 14816.0, 17536.0, - 13184.0)
+    set gg_rct_dungeon_5=Rect(- 16160.0, - 13024.0, - 3744.0, - 5184.0)
+    set gg_rct_dungeon_5_boss1=Rect(- 14400.0, - 7232.0, - 13920.0, - 6816.0)
+    set gg_rct_dungeon_5_boss2=Rect(- 5920.0, - 7168.0, - 5408.0, - 6720.0)
+    set gg_rct_dungeon_5_boss3=Rect(- 14528.0, - 11296.0, - 13952.0, - 10752.0)
+    set gg_rct_dungeon_5_boss4=Rect(- 5920.0, - 11456.0, - 5344.0, - 10912.0)
+    set gg_rct_dungeon_5_come_1=Rect(- 14528.0, - 8640.0, - 13920.0, - 8256.0)
+    set gg_rct_dungeon_5_come_2=Rect(- 5984.0, - 8576.0, - 5376.0, - 8192.0)
+    set gg_rct_dungeon_5_come_3=Rect(- 14592.0, - 12672.0, - 13984.0, - 12288.0)
+    set gg_rct_dungeon_5_come_4=Rect(- 5920.0, - 12832.0, - 5312.0, - 12448.0)
+    set gg_rct_dungeon_5_unit1=Rect(- 15424.0, - 8224.0, - 12960.0, - 5856.0)
+    set gg_rct_dungeon_5_unit2=Rect(- 6880.0, - 8096.0, - 4448.0, - 5632.0)
+    set gg_rct_dungeon_5_unit3=Rect(- 15552.0, - 12320.0, - 12960.0, - 9856.0)
+    set gg_rct_dungeon_5_unit4=Rect(- 6976.0, - 12480.0, - 4384.0, - 10016.0)
+    set gg_rct_dungeon_all=Rect(- 3008.0, 15808.0, - 2368.0, 16256.0)
+    set gg_rct_final=Rect(- 1728.0, 12224.0, 3904.0, 16384.0)
+    set gg_rct_final_come=Rect(768.0, 12672.0, 1280.0, 12992.0)
+    set gg_rct_gem_1=Rect(9920.0, - 6080.0, 12064.0, - 4064.0)
+    set gg_rct_gem_1b=Rect(10720.0, - 5984.0, 11072.0, - 5600.0)
+    set gg_rct_gem_1c=Rect(10816.0, - 4640.0, 11008.0, - 4448.0)
+    set gg_rct_gem_2=Rect(12352.0, - 6080.0, 14336.0, - 4064.0)
+    set gg_rct_gem_2b=Rect(13216.0, - 5984.0, 13632.0, - 5632.0)
+    set gg_rct_gem_2c=Rect(13280.0, - 4608.0, 13440.0, - 4416.0)
+    set gg_rct_gem_3=Rect(14944.0, - 6144.0, 16960.0, - 4032.0)
+    set gg_rct_gem_3b=Rect(15712.0, - 6016.0, 16064.0, - 5728.0)
+    set gg_rct_gem_3c=Rect(15808.0, - 4576.0, 16000.0, - 4384.0)
+    set gg_rct_gem_4=Rect(17248.0, - 6080.0, 18880.0, - 4064.0)
+    set gg_rct_gem_4b=Rect(17920.0, - 5984.0, 18240.0, - 5696.0)
+    set gg_rct_gem_4c=Rect(17984.0, - 4608.0, 18144.0, - 4416.0)
+    set gg_rct_home=Rect(- 160.0, - 6496.0, 288.0, - 6048.0)
+    set gg_rct_home_return=Rect(- 128.0, - 5632.0, 256.0, - 5440.0)
+    set gg_rct_main=Rect(10720.0, 15072.0, 11456.0, 15872.0)
+    set gg_rct_path_center_1=Rect(- 192.0, 448.0, 0.0, 704.0)
+    set gg_rct_path_center_2=Rect(0.0, 448.0, 192.0, 704.0)
+    set gg_rct_path_center_3=Rect(192.0, 448.0, 384.0, 704.0)
+    set gg_rct_persion_1=Rect(- 2432.0, 3200.0, - 832.0, 5120.0)
+    set gg_rct_persion_2=Rect(- 672.0, 3200.0, 1024.0, 5120.0)
+    set gg_rct_persion_3=Rect(1152.0, 3168.0, 2816.0, 5120.0)
+    set gg_rct_persion_4=Rect(2816.0, 3168.0, 4480.0, 5120.0)
+    set gg_rct_persion_5=Rect(4608.0, 3168.0, 6272.0, 5120.0)
+    set gg_rct_persion_all=Rect(- 2592.0, 3168.0, 6464.0, 5280.0)
+    set gg_rct_persion_chall_1=Rect(- 1824.0, 3872.0, - 1440.0, 4224.0)
+    set gg_rct_persion_chall_2=Rect(- 64.0, 3840.0, 352.0, 4192.0)
+    set gg_rct_persion_chall_3=Rect(1696.0, 3776.0, 2080.0, 4192.0)
+    set gg_rct_persion_chall_4=Rect(3392.0, 3840.0, 3776.0, 4224.0)
+    set gg_rct_persion_chall_5=Rect(5248.0, 3776.0, 5600.0, 4128.0)
+    set gg_rct_persion_return_1=Rect(- 1728.0, 4352.0, - 1600.0, 4480.0)
+    set gg_rct_persion_return_2=Rect(32.0, 4352.0, 160.0, 4480.0)
+    set gg_rct_persion_return_3=Rect(1824.0, 4320.0, 1952.0, 4448.0)
+    set gg_rct_persion_return_4=Rect(3488.0, 4352.0, 3616.0, 4480.0)
+    set gg_rct_persion_return_5=Rect(5312.0, 4320.0, 5440.0, 4448.0)
+    set gg_rct_right_area_come=Rect(2496.0, - 12928.0, 2976.0, - 12448.0)
+    set gg_rct_soul_all_1=Rect(- 1536.0, 8864.0, - 384.0, 10656.0)
+    set gg_rct_soul_all_2=Rect(416.0, 8800.0, 1504.0, 10528.0)
+    set gg_rct_soul_all_3=Rect(2592.0, 8768.0, 3680.0, 10560.0)
+    set gg_rct_soul_all_4=Rect(4544.0, 8768.0, 5696.0, 10560.0)
+    set gg_rct_soul_all_5=Rect(6656.0, 8768.0, 7776.0, 10560.0)
+    set gg_rct_soul_chall_1=Rect(- 1088.0, 10112.0, - 864.0, 10304.0)
+    set gg_rct_soul_chall_2=Rect(864.0, 10016.0, 1056.0, 10208.0)
+    set gg_rct_soul_chall_3=Rect(3040.0, 10016.0, 3200.0, 10208.0)
+    set gg_rct_soul_chall_4=Rect(5024.0, 10016.0, 5216.0, 10240.0)
+    set gg_rct_soul_chall_5=Rect(7136.0, 9984.0, 7392.0, 10176.0)
+    set gg_rct_soul_come_1=Rect(- 992.0, 9088.0, - 864.0, 9248.0)
+    set gg_rct_soul_come_2=Rect(864.0, 8992.0, 1056.0, 9184.0)
+    set gg_rct_soul_come_3=Rect(3072.0, 9024.0, 3232.0, 9216.0)
+    set gg_rct_soul_come_4=Rect(5088.0, 8992.0, 5248.0, 9216.0)
+    set gg_rct_soul_come_5=Rect(7168.0, 8992.0, 7328.0, 9184.0)
+    set gg_rct_spring_return=Rect(32.0, - 7520.0, 224.0, - 7328.0)
+    set gg_rct_snow_mountain_u1=Rect(4352.0, - 12544.0, 5312.0, - 11968.0)
+    set gg_rct_snow_mountain_u2=Rect(6240.0, - 11680.0, 6816.0, - 10912.0)
+    set gg_rct_snow_mountain_u3=Rect(4704.0, - 4384.0, 5632.0, - 3488.0)
+    set gg_rct_hide_way_1=Rect(- 11136.0, - 3392.0, - 10624.0, - 2880.0)
+    set gg_rct_hide_way_2=Rect(- 10144.0, 480.0, - 9504.0, 1184.0)
+    set gg_rct_hide_way_3=Rect(6560.0, - 8640.0, 7008.0, - 8224.0)
+    set gg_rct_hide_way_4=Rect(8736.0, - 11136.0, 9184.0, - 10720.0)
+    set gg_rct_senior_dungeon_1=Rect(- 16384.0, - 3904.0, - 11392.0, 16384.0)
+    set gg_rct_senior_dungeon_2=Rect(1568.0, - 12640.0, 7264.0, 1408.0)
+    set gg_rct_choice_hero_center=Rect(16384.0, 14080.0, 16864.0, 14368.0)
+    set gg_rct_choice_hero_come=Rect(16448.0, 13120.0, 16768.0, 13344.0)
+    set gg_rct_flower_u1=Rect(- 14048.0, - 15328.0, - 12448.0, - 14432.0)
+    set gg_rct_old_god_1=Rect(4608.0, 12864.0, 6016.0, 15104.0)
+    set gg_rct_old_god_2=Rect(6272.0, 12992.0, 7648.0, 15104.0)
+    set gg_rct_old_god_3=Rect(7936.0, 12896.0, 9312.0, 15008.0)
+    set gg_rct_old_god_4=Rect(9472.0, 12800.0, 11072.0, 15136.0)
+    set gg_rct_old_god_5=Rect(11232.0, 12800.0, 12672.0, 15040.0)
+endfunction
+//***************************************************************************
+//*
+//*  Cameras
+//*
+//***************************************************************************
+function CreateCameras takes nothing returns nothing
+    set gg_cam_chioceHero=CreateCameraSetup()
+    call CameraSetupSetField(gg_cam_chioceHero, CAMERA_FIELD_ZOFFSET, 0.0, 0.0)
+    call CameraSetupSetField(gg_cam_chioceHero, CAMERA_FIELD_ROTATION, 123.8, 0.0)
+    call CameraSetupSetField(gg_cam_chioceHero, CAMERA_FIELD_ANGLE_OF_ATTACK, 336.2, 0.0)
+    call CameraSetupSetField(gg_cam_chioceHero, CAMERA_FIELD_TARGET_DISTANCE, 3890.6, 0.0)
+    call CameraSetupSetField(gg_cam_chioceHero, CAMERA_FIELD_ROLL, 0.0, 0.0)
+    call CameraSetupSetField(gg_cam_chioceHero, CAMERA_FIELD_FIELD_OF_VIEW, 70.0, 0.0)
+    call CameraSetupSetField(gg_cam_chioceHero, CAMERA_FIELD_FARZ, 8857.8, 0.0)
+    call CameraSetupSetDestPosition(gg_cam_chioceHero, 7541.7, - 13905.1, 0.0)
+endfunction
+//***************************************************************************
+//*
+//*  Triggers
+//*
+//***************************************************************************
+//===========================================================================
+// Trigger: 简介
+//===========================================================================
+//TESH.scrollpos=0
+//TESH.alwaysfold=0
+//===========================================================================
+function InitCustomTriggers takes nothing returns nothing
+    //Function not found: call InitTrig_______u()
 endfunction
 //***************************************************************************
 //*
@@ -116,14 +445,190 @@ endfunction
 function InitCustomPlayerSlots takes nothing returns nothing
     // Player 0
     call SetPlayerStartLocation(Player(0), 0)
+    call ForcePlayerStartLocation(Player(0), 0)
     call SetPlayerColor(Player(0), ConvertPlayerColor(0))
     call SetPlayerRacePreference(Player(0), RACE_PREF_HUMAN)
-    call SetPlayerRaceSelectable(Player(0), true)
+    call SetPlayerRaceSelectable(Player(0), false)
     call SetPlayerController(Player(0), MAP_CONTROL_USER)
+    // Player 1
+    call SetPlayerStartLocation(Player(1), 1)
+    call ForcePlayerStartLocation(Player(1), 1)
+    call SetPlayerColor(Player(1), ConvertPlayerColor(1))
+    call SetPlayerRacePreference(Player(1), RACE_PREF_HUMAN)
+    call SetPlayerRaceSelectable(Player(1), false)
+    call SetPlayerController(Player(1), MAP_CONTROL_USER)
+    // Player 2
+    call SetPlayerStartLocation(Player(2), 2)
+    call ForcePlayerStartLocation(Player(2), 2)
+    call SetPlayerColor(Player(2), ConvertPlayerColor(2))
+    call SetPlayerRacePreference(Player(2), RACE_PREF_HUMAN)
+    call SetPlayerRaceSelectable(Player(2), false)
+    call SetPlayerController(Player(2), MAP_CONTROL_USER)
+    // Player 3
+    call SetPlayerStartLocation(Player(3), 3)
+    call ForcePlayerStartLocation(Player(3), 3)
+    call SetPlayerColor(Player(3), ConvertPlayerColor(3))
+    call SetPlayerRacePreference(Player(3), RACE_PREF_HUMAN)
+    call SetPlayerRaceSelectable(Player(3), false)
+    call SetPlayerController(Player(3), MAP_CONTROL_USER)
+    // Player 4
+    call SetPlayerStartLocation(Player(4), 4)
+    call ForcePlayerStartLocation(Player(4), 4)
+    call SetPlayerColor(Player(4), ConvertPlayerColor(4))
+    call SetPlayerRacePreference(Player(4), RACE_PREF_HUMAN)
+    call SetPlayerRaceSelectable(Player(4), false)
+    call SetPlayerController(Player(4), MAP_CONTROL_USER)
+    // Player 7
+    call SetPlayerStartLocation(Player(7), 5)
+    call ForcePlayerStartLocation(Player(7), 5)
+    call SetPlayerColor(Player(7), ConvertPlayerColor(7))
+    call SetPlayerRacePreference(Player(7), RACE_PREF_NIGHTELF)
+    call SetPlayerRaceSelectable(Player(7), false)
+    call SetPlayerController(Player(7), MAP_CONTROL_COMPUTER)
+    // Player 8
+    call SetPlayerStartLocation(Player(8), 6)
+    call ForcePlayerStartLocation(Player(8), 6)
+    call SetPlayerColor(Player(8), ConvertPlayerColor(8))
+    call SetPlayerRacePreference(Player(8), RACE_PREF_HUMAN)
+    call SetPlayerRaceSelectable(Player(8), false)
+    call SetPlayerController(Player(8), MAP_CONTROL_COMPUTER)
+    // Player 9
+    call SetPlayerStartLocation(Player(9), 7)
+    call ForcePlayerStartLocation(Player(9), 7)
+    call SetPlayerColor(Player(9), ConvertPlayerColor(9))
+    call SetPlayerRacePreference(Player(9), RACE_PREF_ORC)
+    call SetPlayerRaceSelectable(Player(9), false)
+    call SetPlayerController(Player(9), MAP_CONTROL_COMPUTER)
+    // Player 10
+    call SetPlayerStartLocation(Player(10), 8)
+    call ForcePlayerStartLocation(Player(10), 8)
+    call SetPlayerColor(Player(10), ConvertPlayerColor(10))
+    call SetPlayerRacePreference(Player(10), RACE_PREF_UNDEAD)
+    call SetPlayerRaceSelectable(Player(10), false)
+    call SetPlayerController(Player(10), MAP_CONTROL_COMPUTER)
+    // Player 11
+    call SetPlayerStartLocation(Player(11), 9)
+    call ForcePlayerStartLocation(Player(11), 9)
+    call SetPlayerColor(Player(11), ConvertPlayerColor(11))
+    call SetPlayerRacePreference(Player(11), RACE_PREF_NIGHTELF)
+    call SetPlayerRaceSelectable(Player(11), false)
+    call SetPlayerController(Player(11), MAP_CONTROL_COMPUTER)
 endfunction
 function InitCustomTeams takes nothing returns nothing
-    // Force: TRIGSTR_002
+    // Force: TRIGSTR_010
     call SetPlayerTeam(Player(0), 0)
+    call SetPlayerState(Player(0), PLAYER_STATE_ALLIED_VICTORY, 1)
+    call SetPlayerTeam(Player(1), 0)
+    call SetPlayerState(Player(1), PLAYER_STATE_ALLIED_VICTORY, 1)
+    call SetPlayerTeam(Player(2), 0)
+    call SetPlayerState(Player(2), PLAYER_STATE_ALLIED_VICTORY, 1)
+    call SetPlayerTeam(Player(3), 0)
+    call SetPlayerState(Player(3), PLAYER_STATE_ALLIED_VICTORY, 1)
+    call SetPlayerTeam(Player(4), 0)
+    call SetPlayerState(Player(4), PLAYER_STATE_ALLIED_VICTORY, 1)
+    call SetPlayerTeam(Player(9), 0)
+    call SetPlayerState(Player(9), PLAYER_STATE_ALLIED_VICTORY, 1)
+    //   Allied
+    call SetPlayerAllianceStateAllyBJ(Player(0), Player(1), true)
+    call SetPlayerAllianceStateAllyBJ(Player(0), Player(2), true)
+    call SetPlayerAllianceStateAllyBJ(Player(0), Player(3), true)
+    call SetPlayerAllianceStateAllyBJ(Player(0), Player(4), true)
+    call SetPlayerAllianceStateAllyBJ(Player(0), Player(9), true)
+    call SetPlayerAllianceStateAllyBJ(Player(1), Player(0), true)
+    call SetPlayerAllianceStateAllyBJ(Player(1), Player(2), true)
+    call SetPlayerAllianceStateAllyBJ(Player(1), Player(3), true)
+    call SetPlayerAllianceStateAllyBJ(Player(1), Player(4), true)
+    call SetPlayerAllianceStateAllyBJ(Player(1), Player(9), true)
+    call SetPlayerAllianceStateAllyBJ(Player(2), Player(0), true)
+    call SetPlayerAllianceStateAllyBJ(Player(2), Player(1), true)
+    call SetPlayerAllianceStateAllyBJ(Player(2), Player(3), true)
+    call SetPlayerAllianceStateAllyBJ(Player(2), Player(4), true)
+    call SetPlayerAllianceStateAllyBJ(Player(2), Player(9), true)
+    call SetPlayerAllianceStateAllyBJ(Player(3), Player(0), true)
+    call SetPlayerAllianceStateAllyBJ(Player(3), Player(1), true)
+    call SetPlayerAllianceStateAllyBJ(Player(3), Player(2), true)
+    call SetPlayerAllianceStateAllyBJ(Player(3), Player(4), true)
+    call SetPlayerAllianceStateAllyBJ(Player(3), Player(9), true)
+    call SetPlayerAllianceStateAllyBJ(Player(4), Player(0), true)
+    call SetPlayerAllianceStateAllyBJ(Player(4), Player(1), true)
+    call SetPlayerAllianceStateAllyBJ(Player(4), Player(2), true)
+    call SetPlayerAllianceStateAllyBJ(Player(4), Player(3), true)
+    call SetPlayerAllianceStateAllyBJ(Player(4), Player(9), true)
+    call SetPlayerAllianceStateAllyBJ(Player(9), Player(0), true)
+    call SetPlayerAllianceStateAllyBJ(Player(9), Player(1), true)
+    call SetPlayerAllianceStateAllyBJ(Player(9), Player(2), true)
+    call SetPlayerAllianceStateAllyBJ(Player(9), Player(3), true)
+    call SetPlayerAllianceStateAllyBJ(Player(9), Player(4), true)
+    //   Shared Vision
+    call SetPlayerAllianceStateVisionBJ(Player(0), Player(1), true)
+    call SetPlayerAllianceStateVisionBJ(Player(0), Player(2), true)
+    call SetPlayerAllianceStateVisionBJ(Player(0), Player(3), true)
+    call SetPlayerAllianceStateVisionBJ(Player(0), Player(4), true)
+    call SetPlayerAllianceStateVisionBJ(Player(0), Player(9), true)
+    call SetPlayerAllianceStateVisionBJ(Player(1), Player(0), true)
+    call SetPlayerAllianceStateVisionBJ(Player(1), Player(2), true)
+    call SetPlayerAllianceStateVisionBJ(Player(1), Player(3), true)
+    call SetPlayerAllianceStateVisionBJ(Player(1), Player(4), true)
+    call SetPlayerAllianceStateVisionBJ(Player(1), Player(9), true)
+    call SetPlayerAllianceStateVisionBJ(Player(2), Player(0), true)
+    call SetPlayerAllianceStateVisionBJ(Player(2), Player(1), true)
+    call SetPlayerAllianceStateVisionBJ(Player(2), Player(3), true)
+    call SetPlayerAllianceStateVisionBJ(Player(2), Player(4), true)
+    call SetPlayerAllianceStateVisionBJ(Player(2), Player(9), true)
+    call SetPlayerAllianceStateVisionBJ(Player(3), Player(0), true)
+    call SetPlayerAllianceStateVisionBJ(Player(3), Player(1), true)
+    call SetPlayerAllianceStateVisionBJ(Player(3), Player(2), true)
+    call SetPlayerAllianceStateVisionBJ(Player(3), Player(4), true)
+    call SetPlayerAllianceStateVisionBJ(Player(3), Player(9), true)
+    call SetPlayerAllianceStateVisionBJ(Player(4), Player(0), true)
+    call SetPlayerAllianceStateVisionBJ(Player(4), Player(1), true)
+    call SetPlayerAllianceStateVisionBJ(Player(4), Player(2), true)
+    call SetPlayerAllianceStateVisionBJ(Player(4), Player(3), true)
+    call SetPlayerAllianceStateVisionBJ(Player(4), Player(9), true)
+    call SetPlayerAllianceStateVisionBJ(Player(9), Player(0), true)
+    call SetPlayerAllianceStateVisionBJ(Player(9), Player(1), true)
+    call SetPlayerAllianceStateVisionBJ(Player(9), Player(2), true)
+    call SetPlayerAllianceStateVisionBJ(Player(9), Player(3), true)
+    call SetPlayerAllianceStateVisionBJ(Player(9), Player(4), true)
+    // Force: TRIGSTR_011
+    call SetPlayerTeam(Player(10), 1)
+    call SetPlayerState(Player(10), PLAYER_STATE_ALLIED_VICTORY, 1)
+    call SetPlayerTeam(Player(11), 1)
+    call SetPlayerState(Player(11), PLAYER_STATE_ALLIED_VICTORY, 1)
+    //   Allied
+    call SetPlayerAllianceStateAllyBJ(Player(10), Player(11), true)
+    call SetPlayerAllianceStateAllyBJ(Player(11), Player(10), true)
+    // Force: TRIGSTR_012
+    call SetPlayerTeam(Player(8), 2)
+    // Force: TRIGSTR_012
+    call SetPlayerTeam(Player(7), 3)
+endfunction
+function InitAllyPriorities takes nothing returns nothing
+    call SetStartLocPrioCount(0, 4)
+    call SetStartLocPrio(0, 0, 1, MAP_LOC_PRIO_HIGH)
+    call SetStartLocPrio(0, 1, 2, MAP_LOC_PRIO_HIGH)
+    call SetStartLocPrio(0, 2, 3, MAP_LOC_PRIO_HIGH)
+    call SetStartLocPrio(0, 3, 4, MAP_LOC_PRIO_HIGH)
+    call SetStartLocPrioCount(1, 4)
+    call SetStartLocPrio(1, 0, 0, MAP_LOC_PRIO_HIGH)
+    call SetStartLocPrio(1, 1, 2, MAP_LOC_PRIO_HIGH)
+    call SetStartLocPrio(1, 2, 3, MAP_LOC_PRIO_HIGH)
+    call SetStartLocPrio(1, 3, 4, MAP_LOC_PRIO_HIGH)
+    call SetStartLocPrioCount(2, 4)
+    call SetStartLocPrio(2, 0, 0, MAP_LOC_PRIO_HIGH)
+    call SetStartLocPrio(2, 1, 1, MAP_LOC_PRIO_HIGH)
+    call SetStartLocPrio(2, 2, 3, MAP_LOC_PRIO_HIGH)
+    call SetStartLocPrio(2, 3, 4, MAP_LOC_PRIO_HIGH)
+    call SetStartLocPrioCount(3, 4)
+    call SetStartLocPrio(3, 0, 0, MAP_LOC_PRIO_HIGH)
+    call SetStartLocPrio(3, 1, 1, MAP_LOC_PRIO_HIGH)
+    call SetStartLocPrio(3, 2, 2, MAP_LOC_PRIO_HIGH)
+    call SetStartLocPrio(3, 3, 4, MAP_LOC_PRIO_HIGH)
+    call SetStartLocPrioCount(4, 4)
+    call SetStartLocPrio(4, 0, 0, MAP_LOC_PRIO_HIGH)
+    call SetStartLocPrio(4, 1, 1, MAP_LOC_PRIO_HIGH)
+    call SetStartLocPrio(4, 2, 2, MAP_LOC_PRIO_HIGH)
+    call SetStartLocPrio(4, 3, 3, MAP_LOC_PRIO_HIGH)
 endfunction
 //***************************************************************************
 //*
@@ -132,17 +637,20 @@ endfunction
 //***************************************************************************
 //===========================================================================
 function main takes nothing returns nothing
-    call SetCameraBounds(- 3328.0 + GetCameraMargin(CAMERA_MARGIN_LEFT), - 3584.0 + GetCameraMargin(CAMERA_MARGIN_BOTTOM), 3328.0 - GetCameraMargin(CAMERA_MARGIN_RIGHT), 3072.0 - GetCameraMargin(CAMERA_MARGIN_TOP), - 3328.0 + GetCameraMargin(CAMERA_MARGIN_LEFT), 3072.0 - GetCameraMargin(CAMERA_MARGIN_TOP), 3328.0 - GetCameraMargin(CAMERA_MARGIN_RIGHT), - 3584.0 + GetCameraMargin(CAMERA_MARGIN_BOTTOM))
-    call SetDayNightModels("Environment\\DNC\\DNCLordaeron\\DNCLordaeronTerrain\\DNCLordaeronTerrain.mdl", "Environment\\DNC\\DNCLordaeron\\DNCLordaeronUnit\\DNCLordaeronUnit.mdl")
+    call SetCameraBounds(- 16384.0 + GetCameraMargin(CAMERA_MARGIN_LEFT), - 15872.0 + GetCameraMargin(CAMERA_MARGIN_BOTTOM), 18816.0 - GetCameraMargin(CAMERA_MARGIN_RIGHT), 16384.0 - GetCameraMargin(CAMERA_MARGIN_TOP), - 16384.0 + GetCameraMargin(CAMERA_MARGIN_LEFT), 16384.0 - GetCameraMargin(CAMERA_MARGIN_TOP), 18816.0 - GetCameraMargin(CAMERA_MARGIN_RIGHT), - 15872.0 + GetCameraMargin(CAMERA_MARGIN_BOTTOM))
+    call SetDayNightModels("Environment\\DNC\\DNCAshenvale\\DNCAshenvaleTerrain\\DNCAshenvaleTerrain.mdl", "Environment\\DNC\\DNCAshenvale\\DNCAshenvaleUnit\\DNCAshenvaleUnit.mdl")
     call NewSoundEnvironment("Default")
-    call SetAmbientDaySound("LordaeronSummerDay")
-    call SetAmbientNightSound("LordaeronSummerNight")
+    call SetAmbientDaySound("AshenvaleDay")
+    call SetAmbientNightSound("AshenvaleNight")
     call SetMapMusic("Music", true, 0)
+    call CreateRegions()
+    call CreateCameras()
     call CreateAllUnits()
     call InitBlizzard()
 
 
     call InitGlobals()
+    call InitCustomTriggers()
 endfunction
 //***************************************************************************
 //*
@@ -150,16 +658,25 @@ endfunction
 //*
 //***************************************************************************
 function config takes nothing returns nothing
-    call SetMapName("TRIGSTR_008")
-    call SetMapDescription("")
-    call SetPlayers(1)
-    call SetTeams(1)
-    call SetGamePlacement(MAP_PLACEMENT_USE_MAP_SETTINGS)
-    call DefineStartLocation(0, 0.0, 0.0)
+    call SetMapName("轮回Nirvana")
+    call SetMapDescription("没有说明")
+    call SetPlayers(10)
+    call SetTeams(10)
+    call SetGamePlacement(MAP_PLACEMENT_TEAMS_TOGETHER)
+    call DefineStartLocation(0, 16576.0, 14208.0)
+    call DefineStartLocation(1, 16576.0, 14208.0)
+    call DefineStartLocation(2, 16576.0, 14208.0)
+    call DefineStartLocation(3, 16576.0, 14208.0)
+    call DefineStartLocation(4, 16576.0, 14208.0)
+    call DefineStartLocation(5, 16576.0, 14208.0)
+    call DefineStartLocation(6, 16576.0, 14208.0)
+    call DefineStartLocation(7, 16576.0, 14208.0)
+    call DefineStartLocation(8, 16576.0, 14208.0)
+    call DefineStartLocation(9, 16576.0, 14208.0)
     // Player setup
     call InitCustomPlayerSlots()
-    call SetPlayerSlotAvailable(Player(0), MAP_CONTROL_USER)
-    call InitGenericPlayerSlots()
+    call InitCustomTeams()
+    call InitAllyPriorities()
 endfunction
 
 

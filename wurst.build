@@ -1,9 +1,6 @@
 ---
-projectName: "MirTDTest"
-dependencies:
-- "https://github.com/wurstscript/wurstStdlib2"
+projectName: WurstError
 buildMapData:
-  name: "MirTD"
-  fileName: "MirTD"
-  author: "DefaultAuthor"
-  playerCount: 1
+  name: WurstError
+  fileName: WurstError
+  author: DefaultAuthor
